@@ -1,12 +1,18 @@
 ---
 layout: post
-title: 第一课 认识键盘
+title: 第一课 认识键盘及使用
 description: 认识键盘，能正确的进行指法练习
 keywords: key
 ---
 
-## 认识键盘
+## 认识
 
-## 使用键盘
+点击下面的链接，可以打开一个新的网页，会有键盘的使用说明：
+
+<http://wenku.baidu.com/view/fd5f82b365ce05087632132f.html>
+
+## 打字练习
+
+<http://www.dazima.cn/flash/127.html>
 
 
