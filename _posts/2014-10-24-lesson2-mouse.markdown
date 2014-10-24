@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 鼠标的认识与操作
+title: 第二课 鼠标的认识与操作
 description: 提供了文字版与动画版的说明
 keywords: mouse
 ---
