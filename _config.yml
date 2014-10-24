@@ -1,3 +1,4 @@
-name: Your New Jekyll Site
-markdown: redcarpet
+name: 信息技术学习指导站
+markdown: rdiscount
 pygments: true
+email: wwq0327@gmail.com
