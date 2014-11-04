@@ -1,0 +1,21 @@
+---
+layout: post
+title: 第三课 使用浏览器
+description: 认识浏览器，输入网址，打开一个网站
+keywords: Website
+---
+
+## 认识网址
+
+網址是Internet 上的一個網站或一個網路系統的名字，沒有重覆的網址。網址的形式是以若干個英文字母、阿拉伯數字、中橫線 - 組成，由 "." 分隔成幾部分，如 AsianNet.com.tw 為一個台灣區國際網址。只要在瀏覽器中鍵入您的網址，全世界的訪客都能準確無誤地進入您的網頁。
+
+## 什么是浏览器
+
+浏览器：<http://baike.baidu.com/view/7718.htm>
+
+# 使用浏览器
+
+基本使用方法，点击这里：
+
+<http://wenku.baidu.com/view/65e946cc08a1284ac850434c.html?re=view>
+
