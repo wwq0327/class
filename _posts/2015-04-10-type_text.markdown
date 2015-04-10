@@ -4,6 +4,11 @@ title: 如何练习打字
 description:
 keywords:
 ---
+## 输入下载地址
+
+点击下面的地址即可进行下载：
+
+<http://wdl1.cache.wps.cn/wps/download/typeeasy.12012.exe>
 
 ## 学习步骤
 
@@ -16,6 +21,10 @@ keywords:
 第二步，英文输入。
 
 选择英文文章，根据文章练习英文单词的输入。
+
+要求：
+
+![](http://www.51dzt.com/kindeditor_images/data/000/000/086/original/683deae75f5227709012de7c49dfa371.jpg?1355204200)
 
 第三步，拼音输入。
 
