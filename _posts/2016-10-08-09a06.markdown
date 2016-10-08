@@ -8,7 +8,7 @@ keywords: 雨果
 资料查阅列表：
 
 人名：
-- 雨果：<http://baike.sogou.com/v216889.htm?fromTitle=%E9%9B%A8%E6%9E%9C#title>
+- 雨果：<http://baike.sogou.com/v216889.htm>
 - 伏尔泰：<http://baike.sogou.com/v64316307.htm>
 - 卢梭：<http://baike.sogou.com/v17480.htm>
 - 孟德斯鸠：<http://baike.sogou.com/v17534.htm>
