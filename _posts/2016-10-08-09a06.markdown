@@ -8,14 +8,14 @@ keywords: 雨果
 资料查阅列表：
 
 人名：
-- 雨果
-- 伏尔泰
-- 卢梭
-- 孟德斯鸠
+- 雨果：<http://baike.sogou.com/v216889.htm?fromTitle=%E9%9B%A8%E6%9E%9C#title>
+- 伏尔泰：<http://baike.sogou.com/v64316307.htm>
+- 卢梭：<http://baike.sogou.com/v17480.htm>
+- 孟德斯鸠：<http://baike.sogou.com/v17534.htm>
 
 文学作品风格:
-- 浪漫主义
+- 浪漫主义：<http://baike.sogou.com/v25475.htm>
 
 历史事件：
-- 启蒙运动
-- 18世纪法国现状
+- 启蒙运动：<http://baike.sogou.com/v14563.htm>
+
